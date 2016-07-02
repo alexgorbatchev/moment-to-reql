@@ -1,6 +1,6 @@
 {
   "name": "moment-to-reql",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A helper function to convert moment.js object to ReQL so that Timezone information can be preserved when passing data to RethinkDB.",
   "main": "index.js",
   "files": [
