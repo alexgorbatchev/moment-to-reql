@@ -1,0 +1,11 @@
+{
+  "globalDevDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "mocha": "registry:env/mocha#2.2.5+20160723033700"
+  },
+  "globalDependencies": {
+    "moment": "registry:dt/moment#2.11.1+20160829143156",
+    "moment-timezone": "registry:dt/moment-timezone#0.2.5+20160329220348",
+    "node": "registry:env/node#6.0.0+20160902022231"
+  }
+}
