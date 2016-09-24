@@ -1,3 +1,5 @@
+import * as moment from "moment";
+
 export interface IRethinkDBRawTime {
   $reql_type$: string;
   epoch_time: number;
